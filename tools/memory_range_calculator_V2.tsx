@@ -441,7 +441,7 @@ export default function MemoryRangeCalculator() {
             {/* Contact Links */}
             <div className="flex items-center gap-6 justify-center flex-wrap">
               <a
-                href="https://github.com"
+                href="https://github.com/arrhenius975/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="footer-link flex items-center gap-2 text-sm"
@@ -451,7 +451,7 @@ export default function MemoryRangeCalculator() {
                 GitHub
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/a-r-zakaria-talukdar-635419257/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="footer-link flex items-center gap-2 text-sm"
@@ -461,7 +461,7 @@ export default function MemoryRangeCalculator() {
                 LinkedIn
               </a>
               <a
-                href="https://portfolio.com"
+                href="https://zakportfolio.edgeone.dev/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="footer-link flex items-center gap-2 text-sm"
@@ -471,7 +471,7 @@ export default function MemoryRangeCalculator() {
                 Portfolio
               </a>
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:zakariatalukdar123@gmail.com"
                 className="footer-link flex items-center gap-2 text-sm"
                 style={{ color: '#a1efe4' }}
               >
